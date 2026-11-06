@@ -144,11 +144,12 @@ footer {
     justify-content: center;
     gap: 15px;
   }
- .profile-pic{
+ .profile-pic {
     width: 100px;
     height: 100px;
-}
-
-    font-size: 34px;
-  }
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #38bdf8;
+    display: block;
+    margin: 0 auto 20px;
 }
