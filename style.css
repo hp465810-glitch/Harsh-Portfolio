@@ -145,10 +145,10 @@ footer {
     gap: 15px;
   }
  .profile-pic {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
+    width: 100px !important;
+    height: 100px !important;
     border-radius: 50%;
+    object-fit: cover;
     border: 3px solid #38bdf8;
     display: block;
     margin: 0 auto 20px;
