@@ -170,3 +170,11 @@ footer {
     font-size: 34px;
   }
 }
+  .profile-pic{
+    width: 120px !important;
+    height: 120px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 20px;
+}
